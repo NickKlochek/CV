@@ -8,6 +8,12 @@ body {
     margin-left: 250px;
 }
 
+@media (max-width: 750px) {
+    body{
+        text-align: center;
+    }
+}
+
 header {
     position: relative;
     padding-left: 400px;
