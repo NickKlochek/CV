@@ -31,8 +31,14 @@ body {
         margin-bottom: 50px;
     }
 
+    main {
+        display: inline;
+        margin-top: 30px;
+        margin-bottom: 50px;
+    }
+
     .dropdown-menu {
-        font-size: 10px;
+        font-size: 8px;
     }
 
     footer {
