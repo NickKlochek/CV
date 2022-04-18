@@ -26,8 +26,7 @@ body {
 
     .old_pic {
         display: inline-block;
-        margin-top: 30px;
-        margin-bottom: 50px;
+        margin: auto;
     }
 
     header {
@@ -48,7 +47,7 @@ body {
     }
 
     .dropdown-menu {
-        font-size: auto;
+        font-size: small;
     }
 
     footer {
