@@ -27,13 +27,6 @@ body {
         margin-left: 50px;
     }
 
-    .old_pic {
-        display: inline;
-        object-position: 50% 50%;
-        width: 450px;
-        margin-top: 100px;
-    }
-
     header {
         display: inline;
         text-align: center;
@@ -73,6 +66,14 @@ body {
 
     h3 {
         display: inline;
+        margin-bottom: 60px;
+    }
+
+    .old_pic {
+        display: inline;
+        object-position: 50% 50%;
+        width: 450px;
+        margin-top: 100px;
     }
 }
 
