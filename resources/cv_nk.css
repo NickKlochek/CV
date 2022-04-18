@@ -34,7 +34,7 @@ body {
     header {
         display: inline;
         text-align: center;
-        font-size: medium;
+        font-size: large;
         margin-top: 30px;
         margin-bottom: 50px;
     }
@@ -46,10 +46,10 @@ body {
     }
     .button {
         display: inline;
-        font-size: medium;
+        font-size: large;
     }
 
-    .dropdown-menu {
+    #dm {
         font-size: small;
     }
 
@@ -58,6 +58,7 @@ body {
         margin-top: 30px;
         margin-bottom: 50px;
         margin-left: -20px;
+        font-size: medium;
     }
 
     h3 {
