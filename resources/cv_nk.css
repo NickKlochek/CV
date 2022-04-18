@@ -22,6 +22,10 @@ body {
         margin-left: -50px;
     }
 
+    .dropdown-menu {
+        font-size: auto;
+    }
+
     footer {
         margin-left: -20px;
     }
