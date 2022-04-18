@@ -10,8 +10,8 @@ body {
 
 @media (max-width: 1000px) {
     body{
-        display: block;
-        text-align: left;
+        display: relative;
+        text-align: center;
         margin: auto;
         font-size: auto;
         overflow-x: hidden;
@@ -43,13 +43,6 @@ header {
     width: 150px;
     border-radius: 50%;
     margin-top: 50px;
-}
-
-.oldPic {
-    width: 120px;
-    border-radius: 40px;
-    margin-left: 550px;
-    margin-top: -80px;
 }
 
 main {
@@ -87,3 +80,4 @@ footer {
     margin-left: 20px;
     margin-bottom: 20px;
 }
+
