@@ -42,6 +42,10 @@ body {
         margin-top: 30px;
         margin-bottom: 50px;
     }
+    .button {
+        display: inline;
+        font-size: medium;
+    }
 
     .dropdown-menu {
         font-size: auto;
@@ -52,6 +56,10 @@ body {
         margin-top: 30px;
         margin-bottom: 50px;
         margin-left: -20px;
+    }
+
+    h3 {
+        display: inline;
     }
 }
 
