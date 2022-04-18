@@ -70,10 +70,7 @@ body {
     }
 
     .old_pic {
-        display: inline;
-        object-position: 50% 50%;
-        width: 40%;
-        margin-top: 100px;
+        display: block;
     }
 }
 
