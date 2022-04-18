@@ -11,6 +11,7 @@ body {
 @media (max-width: 1000px) {
     body{
         display: relative;
+        box-sizing: border-box;
         text-align: center;
         margin: auto;
         font-size: auto;
@@ -51,7 +52,7 @@ body {
     .button {
         display: inline;
         font-size: large;
-        width: auto;
+        width: fit-content;
         line-height: 2;
     }
 
