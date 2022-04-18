@@ -26,9 +26,9 @@ body {
     }
 
     .old_pic {
-        display: inline-block;
+        display: inline;
         margin: auto;
-        width: auto;
+        width: 150px;
     }
 
     header {
@@ -47,6 +47,8 @@ body {
     .button {
         display: inline;
         font-size: large;
+        width: auto;
+        line-height: 2;
     }
 
     #dm {
