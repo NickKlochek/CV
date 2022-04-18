@@ -28,9 +28,9 @@ body {
     }
 
     .old_pic {
-        display: inline;
+        display: inline-block;
         align-items: center;
-        margin-top: 100px;
+        width: 150px;
     }
 
     header {
@@ -51,8 +51,10 @@ body {
     .button {
         display: inline;
         font-size: large;
-        width: 100%;
+        width: 60%;
         line-height: 2;
+        margin-top: 20px;
+        margin-bottom: 30px;
     }
 
     #dm {
@@ -62,7 +64,7 @@ body {
     footer {
         display: inline;
         width: 100%;
-        margin-top: 40px;
+        margin-top: 80px;
         margin-bottom: 60px;
         margin-left: -20px;
         font-size: medium;
