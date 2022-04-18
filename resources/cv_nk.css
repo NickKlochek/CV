@@ -44,7 +44,7 @@ body {
     }
 
     .dropdown-menu {
-        font-size: 10px;
+        font-size: auto;
     }
 
     footer {
