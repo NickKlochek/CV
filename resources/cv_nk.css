@@ -24,6 +24,12 @@ body {
         margin-left: 50px;
     }
 
+    .old_pic {
+        display: inline-block;
+        margin-top: 30px;
+        margin-bottom: 50px;
+    }
+
     header {
         display: inline;
         text-align: center;
@@ -38,7 +44,7 @@ body {
     }
 
     .dropdown-menu {
-        font-size: 8px;
+        font-size: 10px;
     }
 
     footer {
@@ -61,6 +67,12 @@ header {
     width: 150px;
     border-radius: 50%;
     margin-top: 50px;
+}
+.old_pic {
+    width: 150px;
+    border-radius: 40px;
+    margin-left: 550px;
+    margin-top: -80px;
 }
 
 main {
