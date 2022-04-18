@@ -11,6 +11,8 @@ body {
 @media (max-width: 750px) {
     body{
         text-align: center;
+        margin: auto;
+        font-size: auto;
     }
 }
 
