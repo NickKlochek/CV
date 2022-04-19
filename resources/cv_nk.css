@@ -3,7 +3,6 @@
 body {
     background-color: rgb(228, 237, 245);
     font-family: 'Roboto', sans-serif;
-    max-width: 1200px;
     font-size: 16px;
     text-align: left;
     margin-left: 100px;
@@ -45,6 +44,11 @@ body {
         margin-top: 40px;
         margin-bottom: 60px;
     }
+
+    ul {
+        list-style: none;
+    }
+
     .button {
         font-size: large;
         width: 60%;
@@ -55,6 +59,7 @@ body {
 
     #dm {
         font-size: small;
+        display: block;
     }
 
     footer {
@@ -107,7 +112,13 @@ body {
         width: 100%;
         margin-top: 40px;
         margin-bottom: 60px;
+        list-style: none;
     }
+
+    ul {
+        list-style: none;
+    }
+    
     .button {
         font-size: large;
         width: 60%;
@@ -118,6 +129,7 @@ body {
 
     #dm {
         font-size: medium;
+        display: block;
     }
 
     footer {
@@ -165,6 +177,10 @@ main {
     margin-left: auto;
 }
 
+.pInf {
+    text-align: center;
+}
+
 footer {
     display: inline-block;
     margin-bottom: 50px;
@@ -189,7 +205,7 @@ footer {
 }
 
 .dropdown-menu {
-    display: none;
+    display: block;
 }
 
 .menu-active {
