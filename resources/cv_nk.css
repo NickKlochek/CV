@@ -4,7 +4,7 @@ body {
     background-color: rgb(228, 237, 245);
     font-family: 'Roboto', sans-serif;
     font-size: 16px;
-    text-align: left;
+    text-align: center;
     margin-left: 100px;
     margin-right: 100px;
     overflow-x: hidden;
@@ -177,6 +177,10 @@ header {
 main {
     margin-bottom: 50px;
     margin-left: auto;
+}
+
+ul {
+    list-style: none;
 }
 
 .pInf {
