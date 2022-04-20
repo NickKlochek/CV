@@ -5,8 +5,8 @@ body {
     font-family: 'Roboto', sans-serif;
     font-size: 16px;
     text-align: center;
-    margin-left: 100px;
-    margin-right: 100px;
+    margin-left: auto;
+    margin-right: auto;
     overflow-x: hidden;
 }
 
@@ -40,9 +40,11 @@ body {
 
     main {
         display: block;
+        text-align: center;
         width: 100%;
         margin-top: 40px;
         margin-bottom: 60px;
+        margin-left: auto;
     }
 
     ul {
@@ -51,6 +53,7 @@ body {
 
     .button {
         font-size: large;
+        text-align: center;
         width: 60%;
         line-height: 2;
         margin-top: 20px;
@@ -108,11 +111,13 @@ body {
         margin-bottom: 60px;
     }
 
-    main {
+    .dropdown {
         display: block;
+        text-align: center;
         width: 100%;
-        margin-top: 40px;
-        margin-bottom: 60px;
+        margin-top: 20px;
+        margin-bottom: 40px;
+        margin-left: auto;
     }
 
     ul {
@@ -121,6 +126,7 @@ body {
 
     .button {
         font-size: large;
+        text-align: center;
         width: 60%;
         line-height: 2;
         margin-top: 20px;
@@ -215,7 +221,7 @@ footer {
 
 .menu-active {
     display: block;
-    margin-left: 20px;
+    margin-left: auto;
     margin-bottom: 20px;
 }
 
