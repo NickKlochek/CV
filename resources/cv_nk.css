@@ -119,7 +119,7 @@ body {
         margin-bottom: 60px;
         margin-left: auto;
     }
-    
+
     .dropdown {
         display: block;
         text-align: center;
@@ -221,6 +221,7 @@ footer {
     border-radius: 20px;
     max-width: auto;
     margin: 10px;
+    font-size: large;
     letter-spacing: normal;
     line-height: 2;
     text-align: left;
