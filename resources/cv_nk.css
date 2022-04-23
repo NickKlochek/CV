@@ -111,6 +111,15 @@ body {
         margin-bottom: 60px;
     }
 
+    main {
+        display: block;
+        text-align: center;
+        width: 100%;
+        margin-top: 40px;
+        margin-bottom: 60px;
+        margin-left: auto;
+    }
+    
     .dropdown {
         display: block;
         text-align: center;
@@ -188,6 +197,7 @@ header {
 }
 
 main {
+    text-align: center;
     margin-bottom: 50px;
     margin-left: auto;
 }
