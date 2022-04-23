@@ -60,7 +60,7 @@ body {
         margin-bottom: 30px;
     }
 
-    #dm {
+    .dm {
         font-size: small;
         display: block;
     }
@@ -133,7 +133,7 @@ body {
         margin-bottom: 30px;
     }
 
-    #dm {
+    .dm {
         font-size: medium;
         display: block;
     }
@@ -163,6 +163,14 @@ header {
     margin-top: -200px;
     margin-bottom: 50px;
     margin-left: auto;
+}
+
+.one {
+    width: 750px;
+}
+
+.two {
+    width: 550px;
 }
 
 .picture {
@@ -204,7 +212,7 @@ footer {
     max-width: auto;
     margin: 10px;
     letter-spacing: normal;
-    line-height: 1;
+    line-height: 2;
     text-align: left;
     border: none;
     min-inline-size: 350px;
